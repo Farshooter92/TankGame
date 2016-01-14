@@ -27,3 +27,6 @@ This project uses the MIT license. This essentially means that if you use code f
 
 ## Other Links
 If you are interested in LibGDX tutorials check out the videos from [Conner Anderson](https://www.youtube.com/channel/UC9swZBfLu_PWphPsTuREJuw) and [Gamefromscratch](https://www.youtube.com/user/gamefromscratch). They both are incredibly talented YouTubers who have a lot to share about LibGDX. 
+
+## Comments by the Author
+The Component classes are currently unencapsulated. This was done because it is how I initially learned to code the Components. Since it is not a good Object Oriented Programming it may change in the future.
