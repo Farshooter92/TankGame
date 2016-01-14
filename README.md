@@ -1,4 +1,7 @@
 # TankGame
+## Authored by
+Ben Stone(a.k.a Farshooter)
+
 ## Synopsis
 This is a simple 2D tank game written entirely in Java using LibGDX as its engine and the Ashley and Box2D extensions.
 
