@@ -6,7 +6,12 @@ This is a simple 2D tank game written entirely in Java using LibGDX as its engin
 This project was created so I could get some practice with implementing Ashley and Box2D into a working game.
 
 ##Installation
-All the source files are included in the project. The project was created utilizing JDK 1.7.80.
+All the source files are included in the project. You will have to configure the project to work with your system. It's a pain but has to be done because every development environment is going to be a little different. The project was created utilizing JDK 1.7.80.
+
+Videos on getting you up and running with LibGDX:
+[Configuring your development enviornment](https://www.youtube.com/watch?v=Huifd-C2KrI&index=1&list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
+[Setting up IntelliJ](https://www.youtube.com/watch?v=CN13SZpApR0&index=2&list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
+[Setting up Eclipse](https://www.youtube.com/watch?v=b87Bz8mdlPE&index=3&list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
 
 ## Contributors 
 If you want to contribute, please submit a pull request with your changes. More information can be found [here](https://help.github.com/articles/using-pull-requests/).
@@ -15,4 +20,4 @@ If you want to contribute, please submit a pull request with your changes. More 
 This project uses the MIT license. This essentially means that if you use code from the project then you need to credit it in your product some way. More information can be found [here](http://choosealicense.com/).
 
 ## Other Links
-If you are interested in LibGDX tutorials check out the videos [here](https://www.youtube.com/channel/UC9swZBfLu_PWphPsTuREJuw). He is an incredibly talented YouTuber who has a lot to share about LibGDX 
+If you are interested in LibGDX tutorials check out the videos [here](https://www.youtube.com/channel/UC9swZBfLu_PWphPsTuREJuw) and [here](https://www.youtube.com/user/gamefromscratch). They both are incredibly talented YouTubers who have a lot to share about LibGDX. 
